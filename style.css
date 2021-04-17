@@ -1,0 +1,803 @@
+*  {
+    font-family: lora;
+    font-weight: bold;
+}
+.navbar {
+    box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.25);
+}
+.nav-item {
+    margin-right: 50px;
+}
+
+.border1 {
+    margin: 0 auto;
+    margin-top: 8%;
+    width: 928px;
+    height: 431px;
+    border: 1px solid black;
+    border-radius: 30px;
+    box-shadow: 5px 13px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav-1 {
+    display: inline-flex;
+    padding: 5px 10px;
+    position: absolute;
+    transform: translateX(0%);
+}
+.nav-1 img {
+    margin-right: 220px;
+    margin-top: 1px;
+}
+.nav-1 h2 {
+    margin-right: 201px;
+    margin-top: 25px;
+}
+.nav-2 {
+    display: flex;
+    margin-left: 300px;
+}
+.nav-2 img {
+    margin-right: 80px;
+    margin-left: -200px;
+}
+.nav-2 h2 {
+    margin-top: 25px;
+    margin-right: 300px;
+    margin-left: 80px;
+}
+.tengah-3m {
+    margin-top: -20px;
+    margin-left: 335px;
+}
+.tengah-3 {
+    font-family: lora;
+    margin-top: -160px;
+    margin-left: 285px;
+    font-size: 100px;
+}
+.bawah-logodokter {
+    margin-top: 50px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+}
+.bawah-logors {
+    height: 95px;
+    width: 186px;
+    left: 331px;
+    top: 504px;
+    border-radius: 0px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-top: -90px;
+    margin-left: 80px;
+}
+.bawah-logoambulan {
+    width: 186px;
+    height: 95px;
+    left: 331px;
+    top: 504px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-left: 720px;
+    margin-top: -148px;
+}
+.tengah-logospeaker {
+    margin-top: -210px;
+    margin-left: -200px;
+}
+.border-lingkaran1 {
+    margin-left: 430px;
+    margin-top: -100px;
+    width: 300px;
+    height: 130px;
+    left: 697px;
+    top: 432px;
+    border: 1px solid black;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+    border-bottom-right-radius: 250px;
+    border-bottom-left-radius: 250px;
+}
+.layanan {
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: center;
+}
+.sukabumi {
+    font-size: 18px;
+    margin-top: -5px;
+    text-align: center;
+}
+.no-telpon {
+    font-size: 20px;
+    margin-top: -10px;
+    text-align: center;
+}
+.update-terkini-data {
+    margin-top: 70px;
+    margin-left: 220px;
+}
+.border2 {
+    margin: 30px auto;
+    width: 800px;
+    height: 650px;
+    left: 349.71px;
+    top: 767.63px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: 5px 13px 4px rgba(0, 0, 0, 0.25);
+}
+.update-data {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 15px;
+}
+.tanggal {
+    text-align: center;
+    margin-top: -18px;
+}
+.waktu {
+    text-align: center;
+    margin-top: -20px;
+}  
+.atas-logobajucovid {
+    margin-left: 5px;
+    margin-top: -108px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-tersangka1 {
+    margin-left: 50px;
+    margin-top: 65px;
+    width: 362.6px;
+    height: 154.27px;
+    left: 375.45px;
+    top: 948.34px;
+    background: #AEFF03;
+    border: 1px solid #AEFF03;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: 5px 13px 4px rgba(0, 0, 0, 0.25);
+}
+
+.border-tersangka1 ul {
+    margin-top: 55px;
+    font-size: 20px;
+    color: white;
+    display: inline-flex;
+}
+.total1 {
+    margin-left: 43px;
+    margin-top: -5px;
+    font-size: 20px;
+    color: white;
+}
+.isolasi1 {
+    margin-left: 168px;
+    margin-top: -30px;
+    font-size: 20px;
+    color: white;
+}
+.selesai1{
+    margin-left: 272px;
+    margin-top: -30px;
+    font-size: 20px;
+    color: white;
+}
+.border-kemungkinan1 {
+    margin-left: 450px;
+    margin-top: -154px;
+    width: 300px;
+    height: 154.27px;
+    left: 375.45px;
+    top: 948.34px;
+    background: #3300FF;
+    border: 1px solid #3300FF;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: 5px 13px 4px rgba(0, 0, 0, 0.25);
+}
+.border-kemungkinan1 ul {
+    margin-left: 85px;
+    margin-top: 55px;
+    font-size: 20px;
+    color: white;
+}
+.total2 {
+    margin-left: 143px;
+    margin-top: -5px;
+    font-size: 20px;
+    color: white;
+}
+.border-terkonfirmasi1 {
+    margin: 70px auto; 
+    height: 154.27px;
+    width: 700px;
+    left: 350x;
+    top: 1164.32px;
+    background: #FF2103;
+    border: 1px solid #FF2103;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: 5px 13px 4px rgba(0, 0, 0, 0.25);
+}
+.border-terkonfirmasi1 ul {
+    margin-top: 50px;
+    margin-left: 33px;
+    color: white;
+    display: inline-flex;
+    font-size: 20px;
+}
+.total3 {
+    font-size: 20px;
+    margin-left: 126px;
+    margin-top: -130px;
+    font-size: 20px;
+    color: white;
+}
+.isolasi3 {
+    font-size: 20px;
+    margin-left: 276px;
+    margin-top: -30px;
+    font-size: 20px;
+    color: white;
+}
+.sembuh3 {
+    font-size: 20px;
+    margin-left: 423px;
+    margin-top: -30px;
+    font-size: 20px;
+    color: white;
+}
+.meninggal3 {
+    font-size: 20px;
+    margin-left: 610px;
+    margin-top: -30px;
+    font-size: 20px;
+    color: white;
+}
+.border-tersangka2 {
+    margin-left: 80px;
+    margin-top: -390px;
+    width: 300px;
+    height: 100px;
+    left: 375.45px;
+    top: 948.34px;
+    background: #AEFF03;
+    border: 1px solid #AEFF03;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.border-tersangka2 ul {
+    margin-top: 25px;
+    margin-left: 53px;
+    font-size: 20px;
+    color: white;
+    display: inline-flex;   
+}
+.border-kemungkinan2 {
+    margin-left: 492px;
+    margin-top: -100px;
+    width: 222.24px;
+    height: 100px;
+    left: 375.45px;
+    top: 948.34px;
+    background: #3300FF;
+    border: 1px solid #3300FF;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.border-kemungkinan2 ul {
+    margin-top: 25px;
+    margin-left: 0px;
+    font-size: 20px;
+    color: white;
+    display: inline-flex; 
+}
+.border-terkonfirmasi2 {
+    margin-left: 125px;
+    margin-top: 120px;
+    width: 547.41px;
+    height: 77.13px;
+    left: 375.45px;
+    top: 948.34px;
+    background: #FF2103;
+    border: 1px solid #FF2103;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.border-terkonfirmasi2 ul {
+    margin-top: 25px;
+    margin-left: 58px;
+    font-size: 20px;
+    color: white;
+    display: inline-flex; 
+}
+.border-lingkaran2 {
+    margin-left: 50px;
+    margin-top: 155px;
+    width: 91.23px;
+    height: 37.46px;
+    left: 697px;
+    top: 432px;
+    border: 1px solid black;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+    border-bottom-right-radius: 250px;
+    border-bottom-left-radius: 250px;
+}
+.border-lingkaran2 ul {
+    margin-top: 4px;
+    margin-left: -10px;
+}
+.panah2 {
+    margin-top: -32px;
+    margin-left: 150px;
+}
+.border-hijau {
+    margin-left: 190px;
+    margin-top: -28px;
+    width: 44.45px;
+    height: 33.06px;
+    left: 513.47px;
+    top: 1369.27px;
+    background: #06FF01;
+    border-radius: 3px;
+}
+.border-kuning {
+    margin-left: 234px;
+    margin-top: -33px;
+    width: 44.45px;
+    height: 33.06px;
+    left: 513.47px;
+    top: 1369.27px;
+    background: #DFF202;
+    border-radius: 3px;
+}
+.border-oren {
+    margin-left: 277px;
+    margin-top: -33px;
+    width: 44.45px;
+    height: 33.06px;
+    left: 513.47px;
+    top: 1369.27px;
+    background: #FF9900;
+    border-radius: 3px;
+}
+.border-merah {
+    margin-left: 321px;
+    margin-top: -33px;
+    width: 44.45px;
+    height: 33.06px;
+    left: 513.47px;
+    top: 1369.27px;
+    background: #FF0101;
+    border-radius: 3px;
+}
+.logo-ceklis {
+    margin-left: 288px;
+    margin-top: -58px;
+}
+.update-terkini-peta {
+    margin-top: 100px;
+    margin-left: 220px;
+}
+.logo-peta {
+    margin-top: 30px;
+    margin-left: 370px;
+}
+.waspada {
+    font-weight: 500;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.sars {
+    font-size: 30px;
+    left: 256px;
+    top: 2409px;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.melalui {
+    font-size: 30px;
+    left: 256px;
+    top: 2409px;
+    margin-top: -20px;
+    margin-left: 200px;
+}
+.penderita {
+    font-size: 30px;
+    left: 256px;
+    top: 2409px;
+    margin-top: -20px;
+    margin-left: 200px;
+}
+.batuk {
+    font-size: 30px;
+    left: 256px;
+    top: 2409px;
+    margin-top: -20px;
+    margin-left: 200px;
+}
+.di {
+    font-size: 30px;
+    left: 256px;
+    top: 2409px;
+    margin-top: -20px;
+    margin-left: 200px;
+}
+.sampai {
+    font-size: 30px;
+    left: 256px;
+    top: 2409px;
+    margin-top: -20px;
+    margin-left: 200px;
+}
+.logo-waspada {
+    margin-top: -263px;
+    margin-left: 850px;
+}
+.protokol {
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 888px;
+    height: 56px;
+    font-weight: bold;
+    font-size: 44px;
+}
+.border-tinggal { 
+    margin-left: 200px;
+    margin-top: 30px;
+    width: 416px;
+    height: 141px;
+    left: 256px;
+    top: 2831px;
+    background: #FFFFFF;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-selalu { 
+    margin-left: 650px;
+    margin-top: -141px;
+    width: 416px;
+    height: 285px;
+    left: 256px;
+    top: 2831px;
+    background: #FFFFFF;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-maksimal {
+    margin-left: 200px;
+    margin-top: -95px;
+    width: 416px;
+    height: 260px;
+    left: 256px;
+    top: 2831px;
+    background: #FFFFFF;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-ingatkan {
+    margin-left: 650px;
+    margin-top: -155px;
+    width: 416px;
+    height: 155px;
+    left: 256px;
+    top: 2831px;
+    background: #FFFFFF;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-tinggal ul {
+    margin-left: -5px;
+    margin-top: 10px;
+    width: 271.49px;
+    height: 23px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.tidak {
+    margin-top: 25px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.mendesak {
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.logo-rumah {
+    margin-top: -110px;
+    margin-left: 295px;
+}
+.border-selalu ul {
+    margin-left: -5px;
+    margin-top: 10px;
+    width: 271.49px;
+    height: 23px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.memakai {
+    margin-top: 25px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.benar {
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.pergi {
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.dengan {
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.mengalir {
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.menjaga {
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.meter{
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.logo-masker {
+    margin-top: -170px;
+    margin-left: 295px;
+}
+.border-maksimal ul {
+    margin-left: -5px;
+    margin-top: 10px;
+    width: 271.49px;
+    height: 23px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.seluruh {
+    margin-top: 25px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.diizinkan {
+    margin-top: -13px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.harus {
+    margin-top: -13px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.kapasitas {
+    margin-top: -13px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.dan {
+    margin-top: -13px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.kesehatan {
+    margin-top: -13px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.logo-gedung {
+    margin-top: -185px;
+    margin-left: 293px;
+}
+.border-ingatkan ul {
+    margin-left: -5px;
+    margin-top: 10px;
+    width: 271.49px;
+    height: 23px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.saling {
+    margin-top: 25px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.untuk {
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.pk  {
+    margin-top: -15px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.logo-larangan {
+    margin-top: -138px;
+    margin-left: 293px;
+}
+.border-faq1 {
+    margin-left: 165px;
+    margin-top: 100px;
+    width: 928px;
+    height: 66px;
+    left: 256px;
+    top: 2831px;
+    background: #E8E8E8;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-faq1 ul {
+    margin-top: 10px;
+    font-size: 28px;
+}
+.panah-bawah1 {
+    margin-top: -98px;
+    margin-left: 850px;
+}
+.border-faq2 {
+    margin-left: 165px;
+    margin-top: 15px;
+    width: 928px;
+    height: 66px;
+    left: 256px;
+    top: 2831px;
+    background: #E8E8E8;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-faq2 ul {
+    margin-top: 10px;
+    font-size: 28px;
+}
+.panah-bawah2 {
+    margin-top: -98px;
+    margin-left: 850px;
+}
+.border-faq3 {
+    margin-left: 165px;
+    margin-top: 15px;
+    width: 928px;
+    height: 66px;
+    left: 256px;
+    top: 2831px;
+    background: #E8E8E8;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-faq3 ul {
+    margin-top: 10px;
+    font-size: 28px;
+}
+.panah-bawah3 {
+    margin-top: -98px;
+    margin-left: 850px;
+}
+.border-faq4 {
+    margin-left: 165px;
+    margin-top: 15px;
+    width: 928px;
+    height: 66px;
+    left: 256px;
+    top: 2831px;
+    background: #E8E8E8;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-faq4 ul {
+    margin-top: 10px;
+    font-size: 28px;
+}
+.panah-bawah4 {
+    margin-top: -98px;
+    margin-left: 850px;
+}
+.border-faq5 {
+    margin-left: 165px;
+    margin-top: 15px;
+    width: 928px;
+    height: 66px;
+    left: 256px;
+    top: 2831px;
+    background: #E8E8E8;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-faq5 ul {
+    margin-top: 10px;
+    font-size: 28px;
+}
+.panah-bawah5 {
+    margin-top: -98px;
+    margin-left: 850px;
+}
+.border-faq6 {
+    margin-left: 165px;
+    margin-top: 15px;
+    width: 928px;
+    height: 66px;
+    left: 256px;
+    top: 2831px;
+    background: #E8E8E8;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-faq6 ul {
+    margin-top: 10px;
+    font-size: 28px;
+}
+.panah-bawah6 {
+    margin-top: -98px;
+    margin-left: 850px;
+}
+.border-faq7 {
+    margin-left: 165px;
+    margin-top: 15px;
+    width: 928px;
+    height: 66px;
+    left: 256px;
+    top: 2831px;
+    background: #E8E8E8;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-faq7 ul {
+    margin-top: 10px;
+    font-size: 28px;
+}
+.panah-bawah7 {
+    margin-top: -98px;
+    margin-left: 850px;
+}
+.border-faq8 {
+    margin-left: 165px;
+    margin-top: 15px;
+    width: 928px;
+    height: 66px;
+    left: 256px;
+    top: 2831px;
+    background: #E8E8E8;
+    border: 1px solid #B1A9A9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.border-faq8 ul {
+    margin-top: 10px;
+    font-size: 28px;
+}
+.panah-bawah8 {
+    margin-top: -98px;
+    margin-left: 850px;
+}
